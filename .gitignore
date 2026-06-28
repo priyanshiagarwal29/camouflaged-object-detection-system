@@ -1,0 +1,19 @@
+# Frontend
+camouflage-frontend/node_modules/
+camouflage-frontend/dist/
+
+# Python cache
+**/__pycache__/
+*.pyc
+
+# Uploaded/output images
+**/uploads/
+**/res/single/
+
+# Virtual environments
+**/.venv/
+
+# OS/editor
+.vscode/
+.DS_Store
+Thumbs.db
