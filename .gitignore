@@ -17,3 +17,6 @@ camouflage-frontend/dist/
 .vscode/
 .DS_Store
 Thumbs.db
+
+*.pth
+SINet-V2/SINet-V2/snapshot/
